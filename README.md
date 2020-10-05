@@ -13,5 +13,5 @@ Files:
 3. chr1.GRCh38.excerpt.fa is a FASTA file containing an excerpt of human chromosome 1.
 
 Modules:
-1. bisect
-2. unittest
+1. bisect.
+2. unittest.
